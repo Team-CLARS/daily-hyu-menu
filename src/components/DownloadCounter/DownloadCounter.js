@@ -28,16 +28,16 @@ const DownloadCounter = () => {
   };
 
   function useOnScreen(ref) {
-    const observer = new IntersectionObserver(([entry]) => {
-      if (entry.isIntersecting) {
-        startCounting();
-      }
-    });
 
     useEffect(() => {
+      const observer = new IntersectionObserver(([entry]) => {
+        if (entry.isIntersecting) {
+          startCounting();
+        }
+      });
       observer.observe(ref.current);
       return () => observer.disconnect();
-    }, []);
+    }, [ref]);
   }
 
   useOnScreen(counterRef);

@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/daily-hyu-menu/static/css/main.b5031892.chunk.css",
-    "main.js": "/daily-hyu-menu/static/js/main.646127dd.chunk.js",
-    "main.js.map": "/daily-hyu-menu/static/js/main.646127dd.chunk.js.map",
+    "main.js": "/daily-hyu-menu/static/js/main.b03a99dc.chunk.js",
+    "main.js.map": "/daily-hyu-menu/static/js/main.b03a99dc.chunk.js.map",
     "runtime-main.js": "/daily-hyu-menu/static/js/runtime-main.383681d3.js",
     "runtime-main.js.map": "/daily-hyu-menu/static/js/runtime-main.383681d3.js.map",
     "static/js/2.1e5e159c.chunk.js": "/daily-hyu-menu/static/js/2.1e5e159c.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.3a7e133d.chunk.js": "/daily-hyu-menu/static/js/3.3a7e133d.chunk.js",
     "static/js/3.3a7e133d.chunk.js.map": "/daily-hyu-menu/static/js/3.3a7e133d.chunk.js.map",
     "index.html": "/daily-hyu-menu/index.html",
-    "precache-manifest.58f59e3ca5fd4d89eef5ffd5500b7670.js": "/daily-hyu-menu/precache-manifest.58f59e3ca5fd4d89eef5ffd5500b7670.js",
+    "precache-manifest.d9a940a384006984a3b9e41f202f808f.js": "/daily-hyu-menu/precache-manifest.d9a940a384006984a3b9e41f202f808f.js",
     "service-worker.js": "/daily-hyu-menu/service-worker.js",
     "static/css/main.b5031892.chunk.css.map": "/daily-hyu-menu/static/css/main.b5031892.chunk.css.map",
     "static/js/2.1e5e159c.chunk.js.LICENSE.txt": "/daily-hyu-menu/static/js/2.1e5e159c.chunk.js.LICENSE.txt",
@@ -22,6 +22,6 @@
     "static/js/runtime-main.383681d3.js",
     "static/js/2.1e5e159c.chunk.js",
     "static/css/main.b5031892.chunk.css",
-    "static/js/main.646127dd.chunk.js"
+    "static/js/main.b03a99dc.chunk.js"
   ]
 }

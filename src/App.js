@@ -9,9 +9,11 @@ import ScrollToTop from "./components/ScrollToTop";
 import ChangeLogs from "./pages/ChangeLogs/ChangeLogs";
 import PrivacyPolicy from "./pages/TermsOfUse/PrivacyPolicy/PrivacyPolicy";
 
+const basename = process.env.PUBLIC_URL || '/daily-hyu-menu';
+
 function App() {
   return (
-    <Router>
+    <Router basename={basename}>
       <GlobalStyles />
       <ScrollToTop />
       <Navbar />

@@ -1,5 +1,5 @@
 import React from "react";
-import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
+import { HashRouter as Router, Switch, Route } from "react-router-dom";
 import GlobalStyles from "./globalStyles";
 import { Navbar, Footer } from "./components";
 import Home from "./pages/HomePage/Home";

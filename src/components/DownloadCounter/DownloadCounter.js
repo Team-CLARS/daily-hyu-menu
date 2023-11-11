@@ -37,7 +37,7 @@ const DownloadCounter = () => {
     useEffect(() => {
       observer.observe(ref.current);
       return () => observer.disconnect();
-    }, []);
+    }, [observer, ref]);
   }
 
   useOnScreen(counterRef);

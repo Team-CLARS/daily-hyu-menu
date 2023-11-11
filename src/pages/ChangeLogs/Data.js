@@ -1,10 +1,4 @@
 
-export const version0_1_2 = {
-  date: "2023.10.16",
-  version: "0.1.2(Beta)",
-  isPublic: true,
-  improvements: ["App Store, Play Store 출시", "다크 모드 지원", "즐겨찾기 지원", "카페 메뉴 일부 제공"],
-}
 
 export const versions = [
   {

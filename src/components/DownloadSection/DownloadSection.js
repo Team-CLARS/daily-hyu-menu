@@ -9,7 +9,7 @@ const DownloadSection = () => {
   return (
     <DownloadContainer>
       <ImageContainer>
-        <img src={appIcon} alt="Your App Image" />
+        <img src={appIcon} alt="appIcon" />
       </ImageContainer>
       <DownloadVersion><p>오늘의 식냥 ver 0.1.2</p></DownloadVersion>
       <DownloadInfo><p>Android API 19+<br/>iOS, iPadOS 12.0+</p></DownloadInfo>

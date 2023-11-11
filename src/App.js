@@ -4,7 +4,6 @@ import GlobalStyles from "./globalStyles";
 import { Navbar, Footer } from "./components";
 import Home from "./pages/HomePage/Home";
 import Download from "./pages/Download/Download";
-import Products from "./pages/ChangeLogs/ChangeLogs";
 import ScrollToTop from "./components/ScrollToTop";
 import ChangeLogs from "./pages/ChangeLogs/ChangeLogs";
 import PrivacyPolicy from "./pages/TermsOfUse/PrivacyPolicy/PrivacyPolicy";

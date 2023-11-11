@@ -1,5 +1,5 @@
 import React from "react";
-import { Wrapper, Container, HeaderContainer, DateContainer, VersionContainer, VersionLink, StatusContainer, StatusBadge, ImprovementsContainer, ImprovementsList, ImprovementItem } from "./ChangeLog.elements";
+import { Wrapper, Container, HeaderContainer, DateContainer, VersionContainer, StatusContainer, StatusBadge, ImprovementsContainer, ImprovementsList, ImprovementItem } from "./ChangeLog.elements";
 
 const ChangelogEntryElements = ({ date, version, isPublic, improvements }) => (
     <Wrapper>

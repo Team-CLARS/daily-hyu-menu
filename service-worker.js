@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/daily-hyu-menu/precache-manifest.d9a940a384006984a3b9e41f202f808f.js"
+  "/daily-hyu-menu/precache-manifest.53c2e180d611b37f6a387bcc287de703.js"
 );
 
 self.addEventListener('message', (event) => {

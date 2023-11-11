@@ -6,7 +6,7 @@ export const NotionArticle = styled.div`
 
 
   @media screen and (max-width: 750px) {
-    padding: 5% 0;
+    padding: 5% 5%;
   }
 
   *:not(h1):not(h2):not(h3) {

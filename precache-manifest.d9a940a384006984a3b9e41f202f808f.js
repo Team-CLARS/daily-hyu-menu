@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2f44ab0960ecdc3c81d7e96320c5fa5b",
+    "revision": "8e628c5328e66e55dd4bed61d7344bc4",
     "url": "/daily-hyu-menu/index.html"
   },
   {
-    "revision": "80e8ab15af2c061824b9",
+    "revision": "d1cc5bf126aaa1aeac8b",
     "url": "/daily-hyu-menu/static/css/main.b5031892.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/daily-hyu-menu/static/js/3.3a7e133d.chunk.js"
   },
   {
-    "revision": "80e8ab15af2c061824b9",
-    "url": "/daily-hyu-menu/static/js/main.770ec426.chunk.js"
+    "revision": "d1cc5bf126aaa1aeac8b",
+    "url": "/daily-hyu-menu/static/js/main.b03a99dc.chunk.js"
   },
   {
     "revision": "023f94ffe028e7e9a1ed",

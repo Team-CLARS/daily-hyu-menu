@@ -43,9 +43,9 @@ const DownloadCounter = () => {
   useOnScreen(counterRef);
 
   return (
-    <CounterContainer ref={counterRef}>
+    <CounterContainer >
       <CounterSubtitle>iOS, Android</CounterSubtitle>
-      <CounterNumber>{`${downloadCount}+`}</CounterNumber>
+      <CounterNumber ref={counterRef}>{`${downloadCount}+`}</CounterNumber>
       <CounterText>{`다운로드 수`}</CounterText>
     </CounterContainer>
   );

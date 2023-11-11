@@ -4,6 +4,11 @@ export const NotionArticle = styled.div`
   color: white !important;
   padding: 5% 15%;
 
+
+  @media screen and (max-width: 750px) {
+    padding: 5% 0;
+  }
+
   *:not(h1):not(h2):not(h3) {
     opacity: 0.85;
   }

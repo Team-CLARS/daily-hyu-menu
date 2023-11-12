@@ -7,6 +7,7 @@ import Download from "./pages/Download/Download";
 import ScrollToTop from "./components/ScrollToTop";
 import ChangeLogs from "./pages/ChangeLogs/ChangeLogs";
 import PrivacyPolicy from "./pages/TermsOfUse/PrivacyPolicy/PrivacyPolicy";
+import NotFound from "./pages/NotFound/NotFound";
 
 function App() {
   return (
@@ -19,6 +20,11 @@ function App() {
         <Route path="/download" component={Download} />
         <Route path="/changelog" component={ChangeLogs} />
         <Route path="/terms-of-use/privacy-policy" component={PrivacyPolicy} />
+        {/* Backup */}
+        <Route path="/downloads" component={Download} />
+        <Route path="/changelogs" component={ChangeLogs} />
+        <Route path="/terms-of-use" component={PrivacyPolicy} />
+        <Route path="/*" component={NotFound} />
       </Switch>
       <Footer />
     </Router>

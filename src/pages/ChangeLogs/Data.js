@@ -2,6 +2,12 @@
 
 export const versions = [
   {
+    date: "2023.11.16",
+    version: "0.1.3(Beta)",
+    isPublic: true,
+    improvements: ["업데이트 페이지 추가", "공지기능 개선", "버그 수정"],
+  },
+  {
     date: "2023.10.16",
     version: "0.1.2(Beta)",
     isPublic: true,

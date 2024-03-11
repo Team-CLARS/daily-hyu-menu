@@ -21,11 +21,8 @@ $\textcolor{grey}{\textsf{\small Hidden temporarily}}$
 
 ## [HomePage](https://dailyhyumeal.site/)
 
-<div style="overflow-x: auto;">
-  <img src="https://github.com/Team-CLARS/daily-hyu-menu/assets/87307678/eb1e3446-0e9b-4daf-b323-70d69a3f72c4" width = 180 />
-  <img src="https://github.com/Team-CLARS/daily-hyu-menu/assets/87307678/e80bc193-c3db-46a8-ba83-f9663fb36d8a" width = 180 />
-  <img src="https://github.com/Team-CLARS/daily-hyu-menu/assets/87307678/dc8ce1d0-3cc6-4599-a757-d470dfa160da" width = 180 />
-  <img src="https://github.com/Team-CLARS/daily-hyu-menu/assets/87307678/b528c697-0d19-4b1c-a739-ff020c3b15c9" width = 180 />
-  <img src="https://github.com/Team-CLARS/daily-hyu-menu/assets/87307678/aebfd40f-faeb-4f2a-a181-e93fd2c58a64" width = 180 />
-  <img src="https://github.com/Team-CLARS/daily-hyu-menu/assets/87307678/f4ed3afd-a68f-4207-8036-43367e0855e6" width = 180 />
-</div>
+<img src="https://github.com/Team-CLARS/daily-hyu-menu/assets/87307678/dc8ce1d0-3cc6-4599-a757-d470dfa160da" width = 180 />
+<img src="https://github.com/Team-CLARS/daily-hyu-menu/assets/87307678/b528c697-0d19-4b1c-a739-ff020c3b15c9" width = 180 />
+<img src="https://github.com/Team-CLARS/daily-hyu-menu/assets/87307678/aebfd40f-faeb-4f2a-a181-e93fd2c58a64" width = 180 />
+<img src="https://github.com/Team-CLARS/daily-hyu-menu/assets/87307678/f4ed3afd-a68f-4207-8036-43367e0855e6" width = 180 />
+

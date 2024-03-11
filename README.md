@@ -21,5 +21,5 @@ $\textcolor{grey}{\textsf{\small Hidden temporarily}}$
 
 ## [HomePage](https://dailyhyumeal.site/)
 
-<img src="https://github.com/Team-CLARS/daily-hyu-menu/assets/87307678/eb1e3446-0e9b-4daf-b323-70d69a3f72c4" />
-<img src="https://github.com/Team-CLARS/daily-hyu-menu/assets/87307678/e80bc193-c3db-46a8-ba83-f9663fb36d8a" />
+<img src="https://github.com/Team-CLARS/daily-hyu-menu/assets/87307678/eb1e3446-0e9b-4daf-b323-70d69a3f72c4" width = 100 />
+<img src="https://github.com/Team-CLARS/daily-hyu-menu/assets/87307678/e80bc193-c3db-46a8-ba83-f9663fb36d8a" width = 100 />

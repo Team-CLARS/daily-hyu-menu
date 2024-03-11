@@ -19,6 +19,7 @@ $\textcolor{grey}{\textsf{\small Hidden temporarily}}$
 </tr>
 </table>
 
-## HomePage
+## [HomePage](https://dailyhyumeal.site/)
 
-[방문하기](https://dailyhyumeal.site/)
+![460x0w-_1_](https://github.com/Team-CLARS/daily-hyu-menu/assets/87307678/e80bc193-c3db-46a8-ba83-f9663fb36d8a)
+![460x0w-_1_](https://github.com/Team-CLARS/daily-hyu-menu/assets/87307678/2a87559b-9012-41f7-844a-2615a083114b)

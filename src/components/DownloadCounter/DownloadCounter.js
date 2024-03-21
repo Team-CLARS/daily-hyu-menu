@@ -7,7 +7,7 @@ const DownloadCounter = () => {
   const counterRef = useRef();
 
   const startCounting = () => {
-    const targetCount = 500;
+    const targetCount = 950;
     const displayCount = Math.floor(targetCount / 10) * 10;
 
     const duration = 1500;
